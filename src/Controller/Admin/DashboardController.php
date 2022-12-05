@@ -14,6 +14,7 @@ use EasyCorp\Bundle\EasyAdminBundle\Controller\AbstractDashboardController;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 use App\Controller\Admin\SourceCrudController;
+use App\Controller\Admin\HomeController;
 
 
 class DashboardController extends AbstractDashboardController
