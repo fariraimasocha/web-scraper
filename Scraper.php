@@ -7,6 +7,7 @@ use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Symfony\Component\DomCrawler\Crawler;
 use Symfony\Component\Panther\Client;
+use App\Controller\Admin\HomeController;
 
 class Scraper
 {
